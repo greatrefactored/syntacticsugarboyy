@@ -50,7 +50,7 @@ Algorithm logic is written in C-style JavaScript (index-based, no array built-in
 
 - 🔨 Building my first three portfolio projects
 - 📖 Deepening my React patterns and component architecture
-- 🌍 Based in [Your City / Country] · Open to remote work globally
+- 🌍 Based in Lagos, Nigeria · Open to remote work globally
 
 ---
 
@@ -58,7 +58,7 @@ Algorithm logic is written in C-style JavaScript (index-based, no array built-in
 
 If you have a project, a role, or just want to connect:
 
-**Email:** [your@email.com](mailto:your@email.com)
+**Email:** greatekwueme@gmail.com (mailto:greatekwueme@gmail.com)
 **LinkedIn:** [linkedin.com/in/yourhandle](https://linkedin.com/in/yourhandle)
 **Portfolio:** [yourportfolio.com](https://yourportfolio.com) *(coming soon)*
 
